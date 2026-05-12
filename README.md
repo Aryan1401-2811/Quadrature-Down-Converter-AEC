@@ -1,6 +1,6 @@
 # Quadrature-Down-Converter-AEC
 
-Design of a Quadrature Down Converter, made using LTSpice
+# Design of a Quadrature Down Converter, made using LTSpice
 
 Parameters:
 
@@ -20,10 +20,11 @@ Low Pass Filter Cutoff Frequency - 3kHz
 Final Circuit:
 Quadrature Component - 500m Vpp
 In-phase Component - 500m Vpp
+Phase difference - 90 degree
 
 
 
-Design of a Quadrature Down Converter (Hardware)
+# Design of a Quadrature Down Converter (Hardware)
 
 Parameters Observed:
 
@@ -43,4 +44,5 @@ Low Pass Filter Cutoff Frequency - 6.5kHz
 Final Circuit:
 Quadrature Component - 500m Vpp
 In-phase Component - 500m Vpp
+Phase difference - 86.97 degree
 
